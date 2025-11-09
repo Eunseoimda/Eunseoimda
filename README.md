@@ -4,8 +4,11 @@
 
 <br>
 
+
+
 <div align="center">
-  <img width="100%" height="356" alt="image" src="https://github.com/user-attachments/assets/4efc3aa0-c120-470c-9d2d-3499378ef2bb" />
+  <img width="100%" alt="decor image"
+       src="https://github.com/user-attachments/assets/0652b18c-ed5f-4145-8250-1597bf07d819" />
 </div>
 
 ---
@@ -23,8 +26,12 @@
 
 ### 🧑‍💻 Contact me
 <div align="center">
-  <a href="https://www.notion.so/2a6c8e2b78228179b5cfe5bd08c61eab"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
-  <a href="mailto:lovesome.melifious@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.notion.so/2a6c8e2b78228179b5cfe5bd08c61eab">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+  </a>
+  <a href="mailto:lovesome.melifious@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
 </div>
 
 ---
